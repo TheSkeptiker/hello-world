@@ -1,3 +1,3 @@
 # hello-world
 TestRepository
-Ich entwickle hier Software zum Testen Verbessern von ClimateModels
+Ich entwickle hier Software zum Testen und Verbessern von ClimateModels
